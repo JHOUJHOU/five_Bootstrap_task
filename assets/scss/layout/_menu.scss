@@ -1,0 +1,23 @@
+.w-296 {
+  width: 296px;
+}
+.userphoto {
+  width: 40px;
+  height: 40px;
+}
+.sider-list{
+  a:hover {
+    color:$success;
+  }
+  li:hover {
+    color:$success;
+    border-left: 4px solid $success;
+  }
+}
+.userandy {
+  width: 40px;
+  height: 40px;
+  background: url("https://images.unsplash.com/photo-1514794749374-fb67509dbb7f?ixlib=rb-1.2.1&ixid=eyjhchbfawqiojeymdd9&auto=format&fit=crop&w=2000&q=80") no-repeat;
+  background-size: cover;
+  background-position: center;
+}

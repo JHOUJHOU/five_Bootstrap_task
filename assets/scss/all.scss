@@ -1,0 +1,12 @@
+
+@import "bootstrap/scss/functions";
+@import "./helpers/variables";
+@import "bootstrap/scss/bootstrap";
+@import "./helpers/utilities";
+
+
+@import "./helpers/reset";
+@import './layout/menu.scss';
+@import './pages/index.scss';
+
+
