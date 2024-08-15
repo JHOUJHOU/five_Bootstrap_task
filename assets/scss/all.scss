@@ -1,9 +1,12 @@
 
+
 @import "bootstrap/scss/functions";
 @import "./helpers/variables";
-@import "bootstrap/scss/bootstrap";
+@import "bootstrap/scss/variables-dark"; // utilities
+@import "bootstrap/scss/maps";   // utilities
+@import "bootstrap/scss/mixins"; // utilities
 @import "./helpers/utilities";
-
+@import "bootstrap/scss/bootstrap";
 
 @import "./helpers/reset";
 @import './pages/index.scss';
